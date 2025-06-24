@@ -1,0 +1,17 @@
+{
+  "İstanbul": [
+    "Kadıköy", "Beşiktaş", "Şişli", "Beyoğlu", "Fatih", "Bakırköy", "Üsküdar", "Maltepe", "Pendik", "Kartal"
+  ],
+  "Ankara": [
+    "Çankaya", "Keçiören", "Yenimahalle", "Mamak", "Sincan", "Etimesgut", "Altındağ", "Gölbaşı", "Pursaklar", "Elmadağ"
+  ],
+  "İzmir": [
+    "Konak", "Bornova", "Karşıyaka", "Buca", "Gaziemir", "Çiğli", "Bayraklı", "Narlıdere", "Balçova", "Güzelbahçe"
+  ],
+  "Bursa": [
+    "Osmangazi", "Nilüfer", "Yıldırım", "Gürsu", "Kestel", "İnegöl", "Mudanya", "Gemlik", "Büyükorhan", "Harmancık"
+  ],
+  "Antalya": [
+    "Muratpaşa", "Kepez", "Konyaaltı", "Aksu", "Döşemealtı", "Manavgat", "Alanya", "Serik", "Kemer", "Kaş"
+  ]
+}

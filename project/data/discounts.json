@@ -1,0 +1,106 @@
+{
+  "İstanbul": {
+    "Kadıköy": [
+      {
+        "id": 1,
+        "productName": "Süt 1L",
+        "storeName": "A101",
+        "oldPrice": 8.50,
+        "newPrice": 6.99,
+        "validUntil": "2024-01-15",
+        "category": "Süt Ürünleri"
+      },
+      {
+        "id": 2,
+        "productName": "Ekmeğim Tam Buğday 750g",
+        "storeName": "BİM",
+        "oldPrice": 4.25,
+        "newPrice": 3.50,
+        "validUntil": "2024-01-12",
+        "category": "Fırın Ürünleri"
+      },
+      {
+        "id": 3,
+        "productName": "Çay 1000gr",
+        "storeName": "ŞOK",
+        "oldPrice": 45.00,
+        "newPrice": 38.99,
+        "validUntil": "2024-01-20",
+        "category": "İçecekler"
+      },
+      {
+        "id": 4,
+        "productName": "Tavuk But 1kg",
+        "storeName": "Migros",
+        "oldPrice": 42.90,
+        "newPrice": 35.90,
+        "validUntil": "2024-01-14",
+        "category": "Et Ürünleri"
+      }
+    ],
+    "Beşiktaş": [
+      {
+        "id": 5,
+        "productName": "Makarna 500g",
+        "storeName": "A101",
+        "oldPrice": 7.50,
+        "newPrice": 5.99,
+        "validUntil": "2024-01-16",
+        "category": "Temel Gıda"
+      },
+      {
+        "id": 6,
+        "productName": "Yoğurt 500g",
+        "storeName": "BİM",
+        "oldPrice": 12.75,
+        "newPrice": 9.99,
+        "validUntil": "2024-01-13",
+        "category": "Süt Ürünleri"
+      }
+    ]
+  },
+  "Ankara": {
+    "Çankaya": [
+      {
+        "id": 7,
+        "productName": "Pirinç 1kg",
+        "storeName": "ŞOK",
+        "oldPrice": 18.50,
+        "newPrice": 15.99,
+        "validUntil": "2024-01-18",
+        "category": "Temel Gıda"
+      },
+      {
+        "id": 8,
+        "productName": "Deterjan 3kg",
+        "storeName": "Migros",
+        "oldPrice": 35.90,
+        "newPrice": 29.90,
+        "validUntil": "2024-01-22",
+        "category": "Temizlik"
+      }
+    ]
+  },
+  "İzmir": {
+    "Konak": [
+      {
+        "id": 9,
+        "productName": "Zeytinyağı 1L",
+        "storeName": "A101",
+        "oldPrice": 89.99,
+        "newPrice": 74.99,
+        "validUntil": "2024-01-25",
+        "category": "Yağlar"
+      },
+      {
+        "id": 10,
+        "productName": "Peynir 600g",
+        "storeName": "BİM",
+        "oldPrice": 28.50,
+        "newPrice": 24.99,
+        "validUntil": "2024-01-17",
+        "category": "Süt Ürünleri"
+      }
+    ]
+  }
+}
